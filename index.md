@@ -5,13 +5,13 @@ layout: default
 
 # Welcome to Seven Concepts Media
 
-We publish concise, practical print‑on‑demand books on leadership and strategic advantage.
+We publish concise, practical print‑on‑demand books. We specialize in business books but welcome other genres.
 
-## Our Titles
+## Our Current Titles
 
 - [All Books →](/books/)
 
-## Our Business Titles
+## Business Titles
 
 - **Beyond Strategic Leadership** — [Buy on Amazon](https://…)
 - **Women in Leadership** — [Buy on Amazon](https://…)
