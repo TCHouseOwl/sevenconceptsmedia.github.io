@@ -4,3 +4,12 @@ description: “Print‑on‑demand business books on leadership & strategy”
 
 # Theme
 theme: minima
+
+# Custom navbar links
+header_links:
+  - title: Home
+    url: /
+  - title: Books
+    url: /books/
+  - title: About
+    url: /about/
