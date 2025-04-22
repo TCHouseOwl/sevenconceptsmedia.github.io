@@ -3,11 +3,6 @@
 </p>
 ---
 
----
-title: Home
-layout: default
----
-
 # Welcome to Seven Concepts Media
 
 We publish concise, practical print‑on‑demand books. We specialize in business books but welcome other genres.
