@@ -8,7 +8,7 @@ theme: minima
 header_links:
   - title: Home
     url: /
-  - title: Books
+  - title: Books Descriptions
     url: /books/
   - title: About
     url: /about/
