@@ -9,7 +9,7 @@ permalink: /books/
 Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Execution.
 
 <p align="center">
-  <img src="/assets/BSL_Cover.jpg" alt="Leadership Beyond Strategy cover" width="200">
+  <img src="/assets/BSL_Cover.jpg" alt="Beyond Strategic Leadership cover" width="200">
 </p>
 
 To achieve long-term organizational success, leaders must anticipate change, drive innovation, and navigate complexity in an era where digital transformation is reshaping industries. This book delivers practical solutions and actionable strategies to help you foster an innovative and agile mindset. Applicable to strategic management, innovation, and leadership.
