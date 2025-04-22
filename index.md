@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="/logo.png" alt="DBA Seven Concepts Media LOGO" width="250">
+</p>
+
+---
+title: Home
+layout: default
+---
+
 ---
 title: Home
 layout: default
