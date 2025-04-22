@@ -6,7 +6,7 @@
 
 # Welcome to Seven Concepts Media
 
-We publish concise, practical print‑on‑demand books.
+We provide concise, practical print‑on‑demand books.
 
 ## Available Titles
 
