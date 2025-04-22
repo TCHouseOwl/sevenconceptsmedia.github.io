@@ -7,7 +7,7 @@ layout: default
 
 We publish concise, practical print‑on‑demand books. We specialize in business books but welcome other genres.
 
-## Our Current Titles
+## All Current Titles
 
 - [All Books →](/books/)
 
@@ -15,4 +15,3 @@ We publish concise, practical print‑on‑demand books. We specialize in busine
 
 - **Beyond Strategic Leadership** — [Buy on Amazon](https://…)
 - **Women in Leadership** — [Buy on Amazon](https://…)
-
