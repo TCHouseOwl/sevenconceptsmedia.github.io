@@ -17,7 +17,7 @@ To achieve long-term organizational success, leaders must anticipate change, dri
 ## Competitive Advantage (Coming in 2025)
 An Essential Guide
 
-[Buy on Amazon](https://…)
+[Pending](https://…)
 
 ---
 
