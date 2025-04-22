@@ -1,14 +1,14 @@
 title: Seven Concepts Media
 "Branch of KJ7Concepts LLC"
-description: "Print-on-demand business books. 
-We never run out."
+description: "Print-on-demand books." 
+"We never run out."
 theme: minima
 
 # Custom navbar links
 header_links:
   - title: Home
     url: /
-  - title: Books Descriptions
+  - title: Book Descriptions
     url: /books/
   - title: About
     url: /about/
