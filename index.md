@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.jpg" alt="DBA Seven Concepts Media LOGO" width="250">
+  <img src="/DBA Seven Concepts Media LOGO.jpg" alt="DBA Seven Concepts Media LOGO" width="250">
 </p>
 
 ---
