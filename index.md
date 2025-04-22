@@ -9,6 +9,10 @@ We publish concise, practical print‑on‑demand books on leadership and strate
 
 ## Our Titles
 
+- [All Books →](/books/)
+
+## Our Titles
+
 - **Beyond Strategic Leadership** — [Buy on Amazon](https://…)
 - **Women in Leadership** — [Buy on Amazon](https://…)
 
