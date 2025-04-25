@@ -4,9 +4,8 @@ theme: minima
 
 # Custom navbar links
 header_links:
-  - title: Home
-    url: /
+
   - title: Book Descriptions
     url: /books/
-  - title: About
+  - title: About Us
     url: /about/
