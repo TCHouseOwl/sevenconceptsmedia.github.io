@@ -23,3 +23,15 @@ border-color: #27ae60;
 background-color: #e6f9f0;
 }
 ```
+
+/* Nav list styling */
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+.site-nav li {
+  margin: 0;
+}
