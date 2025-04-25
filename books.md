@@ -8,7 +8,7 @@ permalink: /books/
 ## Beyond Strategic Leadership (2025)  
 Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Execution.
 
-<p align="center">
+<p align="left">
   <img src="/assets/BSL_Cover.jpg" alt="Beyond Strategic Leadership cover" width="200">
 </p>
 
