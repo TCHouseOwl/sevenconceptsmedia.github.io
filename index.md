@@ -12,8 +12,8 @@ layout: default
 <p align="center">
 
 ## Welcome to Seven Concepts Media
-
 </p>  
+
 <p align="center">
 We provide concise, practical print‑on‑demand books and media.
 </p>  
