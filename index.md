@@ -6,7 +6,8 @@ layout: default
 </p>
 
 ---
-
+{% include header.html %}
+---
 # Welcome to Seven Concepts Media
 
 We provide concise, practical print‑on‑demand books.
