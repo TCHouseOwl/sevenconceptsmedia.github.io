@@ -10,9 +10,9 @@ layout: default
 ---
 <p align="center">
 # Welcome to Seven Concepts Media
-</p>
-We provide concise, practical print‑on‑demand books and media.
 
+We provide concise, practical print‑on‑demand books and media.
+</p>
 ## Available Titles
 
 - **Beyond Strategic Leadership (2025) by Klamont Johnson** — [Now available on Amazon](https://www.amazon.com/Beyond-Strategic-Leadership-Advantages-Innovation/dp/B0F48HYRR1/ref=sr_1_1?crid=2S8CURBIWIB0B&dib=eyJ2IjoiMSJ9.EpV-RCUAdnSUBbREaj1ayQ.Rse5N-MNU91_Ru0Myt9TsfrcDNcOin7t3Z86RLGgraM&dib_tag=se&keywords=beyond+strategic+leadership+by+klamont+johnson&qid=1745295446&sprefix=Beyond+Strategic+leadersh%2Caps%2C109&sr=8-1)
