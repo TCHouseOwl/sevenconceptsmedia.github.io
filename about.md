@@ -1,7 +1,7 @@
 title: About
 layout: default
 permalink: /about/
-
+---
 Seven Concepts Media is a publishing service focused on authors and creators who 
 provide engaging media that reflect the diverse interests we cherish. 
 Non fiction with unique insights, practical guidance and real-world
