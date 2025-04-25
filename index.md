@@ -11,7 +11,7 @@ layout: default
 
 <p align="center">
 
-## Welcome to Seven Concepts Media
+# Welcome to Seven Concepts Media
 </p>  
 
 <p align="center">
