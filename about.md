@@ -1,7 +1,9 @@
 ---
+---
 title: About Us
 layout: default
 permalink: /about/
+---
 ---
 Seven Concepts Media is a portal and publishing service focused on authors and creators who 
 provide engaging media that reflect the diverse interests we cherish. 
