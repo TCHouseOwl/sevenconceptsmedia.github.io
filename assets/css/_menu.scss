@@ -1,0 +1,20 @@
+```scss
+.menu-button {
+display: inline-block;
+padding: 0.5rem 1rem;
+border: 2px solid;
+border-radius: 0.25rem;
+text-decoration: none;
+transition: background-color 0.2s ease;
+}
+
+.menu-button.book {
+border-color: #f2c94c;
+background-color: #fff7e6;
+}
+
+.menu-button.about {
+border-color: #27ae60;
+background-color: #e6f9f0;
+}
+```
