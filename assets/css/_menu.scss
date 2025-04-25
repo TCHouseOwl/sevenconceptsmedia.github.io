@@ -8,6 +8,11 @@ text-decoration: none;
 transition: background-color 0.2s ease;
 }
 
+.menu-button.home {
+       border-color: #3498db;       /* blue accent */
+       background-color: #e8f4fb;   /* pale blue */
+}
+
 .menu-button.book {
 border-color: #f2c94c;
 background-color: #fff7e6;
