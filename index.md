@@ -10,7 +10,7 @@ layout: default
 ---
 # Welcome to Seven Concepts Media
 
-We provide concise, practical print‑on‑demand books.
+We provide concise, practical print‑on‑demand books and media.
 
 ## Available Titles
 
