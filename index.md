@@ -10,16 +10,13 @@ layout: default
 {% include header.html %}
 ---
 
-```html
-<h1>Welcome to Seven Concepts Media</h1>
-```  
-- Add a CSS class to it:
-```html
 <h1 class="welcome-title">Welcome to Seven Concepts Media</h1>
-```  
+
 <p align="center">
-We provide concise, practical print‑on‑demand books and media.
-</p>  
+       We provide concise, practical print‑on‑demand books and media.
+</p>
+```  
+
 
 ## Available Titles
 
