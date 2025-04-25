@@ -8,8 +8,9 @@ layout: default
 ---
 {% include header.html %}
 ---
+<p align="center">
 # Welcome to Seven Concepts Media
-
+</p>
 We provide concise, practical print‑on‑demand books and media.
 
 ## Available Titles
