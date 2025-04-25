@@ -15,8 +15,6 @@ layout: default
 <p align="center">
        We provide concise, practical print‑on‑demand books and media.
 </p>
-```  
-
 
 ## Available Titles
 
