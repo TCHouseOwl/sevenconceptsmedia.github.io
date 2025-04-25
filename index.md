@@ -14,9 +14,9 @@ layout: default
 ## Welcome to Seven Concepts Media
 
 </p>  
-
+<p align="center">
 We provide concise, practical print‑on‑demand books and media.
-
+</p>  
 
 ## Available Titles
 
