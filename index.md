@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<p align="center">
-  <img src="/DBA Seven Concepts Media LOGO.jpg" alt="DBA Seven Concepts Media LOGO" width="65">
+<p align="left">
+  <img src="/DBA Seven Concepts Media LOGO.jpg" alt="DBA Seven Concepts Media LOGO" width="15">
 </p>
 
 ---
