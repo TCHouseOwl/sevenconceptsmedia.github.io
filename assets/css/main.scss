@@ -14,7 +14,7 @@
 ``` 
 .logo-strip {
   height: 50px;                                       /* match your logo’s height */
-  background: url('{{ "/assets/logo.png" | relative_url }}') no-repeat top;
+  background: url('{{ "/assets/logo.jpg" | relative_url }}') no-repeat top;
   background-size: calc(100% / 7) auto;               /* exactly 7 across */
   background-repeat: repeat-x;
 }
