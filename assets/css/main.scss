@@ -12,3 +12,12 @@
        max-width: 800px;
      }
 ``` 
+.logo-strip {
+  /* match this to your actual logo height */
+  height: 80px;
+
+  /* tile the logo 7× across */
+  background: url('/assets/DBA Seven Concepts Media LOGO.jpg') no-repeat top;
+  background-size: calc(100% / 7) auto;
+  background-repeat: repeat-x;
+}
