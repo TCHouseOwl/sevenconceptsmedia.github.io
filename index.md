@@ -22,9 +22,9 @@ layout: default
 
 ## Pending Titles
 
-- **Competitive Advantage: MBA edition (2025)** — [Coming soon to Amazon](https://)
-- **Competitive Advantage: Executive edition** — [Coming soon](https://)
-- **Competitive Advantage: Not-For-Profit edition** — [Coming soon](https://)
+- **Competitive Advantage: MBA edition (2025)** — [Coming soon](https://)
+- **Competitive Advantage: Executive edition** — [pending title](https://)
+- **Competitive Advantage: Not-For-Profit edition** — [pending title](https://)
 
 
 <p align="center">
