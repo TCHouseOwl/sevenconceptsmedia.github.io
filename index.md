@@ -22,7 +22,7 @@ layout: default
 
 ## Pending Titles
 
-- **Competitive Advantage: MBA edition (2025) by Klamont Johnson** — [Coming soon to Amazon](https://)
+- **Competitive Advantage: MBA edition (2025)** — [Coming soon to Amazon](https://)
 - **Competitive Advantage: Executive edition** — [Coming soon](https://)
 - **Competitive Advantage: Not-For-Profit edition** — [Coming soon](https://)
 
