@@ -9,7 +9,7 @@ layout: default
 {% include header.html %}
 ---
 
-<h1 class="welcome-title">Seven Concepts Media Available and Pending Titles</h1>
+<h1 class="welcome-title">Seven Concepts Media: Available and Pending Titles</h1>
 
 <p align="center">
        We provide concise, practical print‑on‑demand books and media.
