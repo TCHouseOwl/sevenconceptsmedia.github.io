@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
+title: "Home"
+permalink: /books/
 ---
+
 <p align="center">
   <img src="/DBA Seven Concepts Media LOGO.jpg" alt="DBA Seven Concepts Media LOGO" width="25">
 </p>
