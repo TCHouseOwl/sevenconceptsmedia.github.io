@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Home"
-permalink: /books/
+title: "Books"
 ---
 
 # Our Print‑on‑Demand Books
