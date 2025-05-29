@@ -1,9 +1,12 @@
 ---
-layout: page
 title: "Books"
+layout: page
+permalink: /books/
 ---
 
-# Our Print‑on‑Demand Books
+{% include header.html %}
+
+# Our Print‑on‑Demand Books and other Media
 
 ## Beyond Strategic Leadership (2025)  
 Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Execution.
