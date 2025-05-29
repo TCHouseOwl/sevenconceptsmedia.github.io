@@ -4,8 +4,6 @@ layout: page
 permalink: /books/
 ---
 
-{% include header.html %}
-
 # Our Print‑on‑Demand Books and other Media
 
 ## Beyond Strategic Leadership (2025)  
