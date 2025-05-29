@@ -3,8 +3,6 @@ title: "Titles"
 layout: page
 ---
 
-{% include header.html %}
-
 <p align="center">
   <img src="/assets/DBA Seven Concepts Media LOGO.jpg" 
        alt="Seven Concepts Media Logo" width="150">
