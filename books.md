@@ -10,7 +10,7 @@ layout: page
 
 # Seven Concepts Media: Available and Pending Titles
 
-> We provide concise, practical print-on-demand books and media.
+> We provide practical print-on-demand books and media.
 
 ## Available Titles
 
