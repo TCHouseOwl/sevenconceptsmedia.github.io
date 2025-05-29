@@ -38,3 +38,4 @@ This book recognizes women's unique hurdles in business and leadership; and prov
 [Buy on Amazon](https://www.amazon.com/Women-Leadership-Must-Have-Empowerment-Confidence/dp/B0DNNLBLFJ/ref=sr_1_1?crid=H2PDWDOQYAAE&dib=eyJ2IjoiMSJ9.zv4afSJIg-tPKo-GQ6gSSn5pRcOksX8Ub8tUUdsrOfLQDiMVJEWzhqkWxOhZOBOoqzVKxJWFkmu6yuIwP89AwAco0isokuhA2oKQ5_I7LZM2dksXVFy4VkW_hYkSPu8SgE1aUqtARIuh2tVwrF6mHw.R6gP14UdWb8e-pPHTKmVtMcheWY7R4E6KE5KLteet5s&dib_tag=se&keywords=women+in+leadership+by+visionary+voices&qid=1745295109&sprefix=women+in+leadership+by+visionary+voices%2Caps%2C95&sr=8-1)
 
 ---
+
