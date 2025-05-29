@@ -1,4 +1,4 @@
-name: Build and Deploy Jekyll Site to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -6,26 +6,26 @@ on:
       - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
+      # 1. Check out your repo
       - uses: actions/checkout@v3
+
+      # 2. Set up Ruby (needed for Jekyll)
       - uses: actions/setup-ruby@v1
         with:
           ruby-version: '3.x'
-          cache: bundler
-      - run: bundle install --jobs 4 --retry 3
-      - run: bundle exec jekyll build --destination output
-      - uses: actions/configure-pages@v3
-      - uses: actions/upload-pages-artifact@v1
-        with:
-          path: output
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: https://sevenconceptsmedia.github.io
-    steps:
-      - uses: actions/deploy-pages@v1
+      # 3. Install dependencies
+      - run: bundle install
+
+      # 4. Build the site with Jekyll into _site
+      - run: bundle exec jekyll build --destination _site
+
+      # 5. Deploy to GitHub Pages via peaceiris
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: main
