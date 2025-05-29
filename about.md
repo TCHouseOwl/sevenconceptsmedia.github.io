@@ -9,3 +9,4 @@ Non-fiction that reflects diverse interests, unique insights, practical perspect
 Fiction that has passion, intrigue, and escape, that transports the reader into various fantasy realms and possibilities. 
 
 After your purchase, we would greatly appreciate your review of the media we list so that we may continue to improve and expand. Thank you, not five, not six, but SevenConceptsMedia.com.
+
