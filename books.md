@@ -1,7 +1,6 @@
 ---
 title: "Titles"
 layout: page
-permalink: /books/
 ---
 
 {% include header.html %}
