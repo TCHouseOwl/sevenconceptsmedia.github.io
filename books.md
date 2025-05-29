@@ -4,7 +4,7 @@ layout: page
 ---
 
 <p align="center">
-  <img src="/assets/DBA Seven Concepts Media LOGO.jpg" 
+  <img src="/assets/images/LOGO_Main.jpg" 
        alt="Seven Concepts Media Logo" width="150">
 </p>
 
@@ -27,5 +27,5 @@ layout: page
 
 
 <p align="center">
-  <img src="/DBA Seven Concepts Media LOGO.jpg" alt="DBA Seven Concepts Media LOGO" width="65">
+  <img src="/LOGO_Main.jpg" alt="DBA Seven Concepts Media LOGO" width="65">
 </p>
