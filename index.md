@@ -10,7 +10,7 @@ permalink: /books/
 Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Execution.
 
 <p align="center">
-  <img src="/assets/BSL_Cover.jpg" alt="Beyond Strategic Leadership cover" width="200">
+  <img src="/assets/images/BSL_Cover.jpg" alt="Beyond Strategic Leadership cover" width="200">
 </p>
 
 To achieve long-term organizational success, leaders must anticipate change, drive innovation, and navigate complexity in an era where digital transformation is reshaping industries. This book delivers practical solutions and actionable strategies to help you foster an innovative and agile mindset. Applicable to strategic management, innovation, and leadership.
@@ -30,7 +30,7 @@ An Essential Guide
 Subtitle: The Must-Have Guide to Empowerment, Confidence, and Networks with Practical Lessons to Develop Authentic Style and Skills as a Leader in any Business.
 
 <p align="center">
-  <img src="/assets/WomenInLeadershipCover.jpg" alt="Women in Leadership cover" width="200">
+  <img src="/assets/images/WinL_Cover.jpg" alt="Women in Leadership cover" width="200">
 </p>
 
 This book recognizes women's unique hurdles in business and leadership; and provides guidance  on how to unlock your leadership style in 7 days, overcome imposter syndrome, and thrive in any industry even if you've felt overlooked, underestimated, or excluded in male-dominated environments.
