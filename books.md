@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Titles"
 layout: page
 permalink: /books/
 ---
