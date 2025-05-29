@@ -1,8 +1,9 @@
 ---
-title: Books Descriptions
-layout: default
+layout: page
+title: "Home"
 permalink: /books/
 ---
+
 # Our Print‑on‑Demand Books
 
 ## Beyond Strategic Leadership (2025)  
