@@ -1,8 +1,9 @@
 ---
-layout: page
-title: "Home"
+title: Books Descriptions
+layout: default
 permalink: /books/
 ---
+
 
 <p align="center">
   <img src="/DBA Seven Concepts Media LOGO.jpg" alt="DBA Seven Concepts Media LOGO" width="25">
