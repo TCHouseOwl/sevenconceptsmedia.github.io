@@ -10,3 +10,4 @@ Fiction that has passion, intrigue, and escape, that transports the reader into 
 
 After your purchase, we would greatly appreciate your review of the media we list so that we may continue to improve and expand. Thank you, not five, not six, but SevenConceptsMedia.com.
 
+All rights reserved; unauthorized reuse of images prohibited.
