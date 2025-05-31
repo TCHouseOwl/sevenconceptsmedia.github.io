@@ -1,6 +1,7 @@
 ---
-title: "Titles"
-layout: page
+layout: default
+title: "Books"
+permalink: /books/
 ---
 
 <p align="center">
