@@ -1,7 +1,0 @@
-# Treat image files as binary to prevent EOL normalization
-*.jpg    -text
-*.jpeg   -text
-*.png    -text
-*.gif    -text
-*.svg    -text
-*.webp   -text
