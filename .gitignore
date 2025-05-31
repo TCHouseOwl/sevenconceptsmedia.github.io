@@ -1,3 +1,4 @@
 # Ignore Jekyll’s generated feed and build artifacts
-feed.xml
-_site/
+/feed.xml
+/_site/
+/books/*.html
