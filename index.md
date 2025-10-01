@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# Print‑on‑Demand at Seven Concepts Media
+# Print‑on‑Demand at Seven Concepts Media.
 
 ## Beyond Strategic Leadership (2025)  
 Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Execution.
