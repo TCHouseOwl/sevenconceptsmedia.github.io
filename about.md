@@ -11,6 +11,10 @@ Fiction that has passion, intrigue, and escape, that transports the reader into 
 
 <p>After your purchase, we would greatly appreciate your review of the media we list so that we may continue to improve and expand. Thank you, not five, not six, but SevenConceptsMedia.com.</p>
 
+<p align="center">
+  <img src="/assets/images/7C_Oval_logo.jpg" 
+       alt="Seven Concepts Media Logo" width="150">
+</p>
   
 <!-- Footer with affiliate disclosure -->
 <footer class="site-footer">
