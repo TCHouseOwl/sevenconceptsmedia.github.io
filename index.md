@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# SevenConceptsMedia Print‑on‑Demand Books.
+# SCM Print‑on‑Demand Books.
 
 ## Beyond Strategic Leadership (2025)  
 Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Execution.
