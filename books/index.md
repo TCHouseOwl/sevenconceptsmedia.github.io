@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 <p align="center">
-  <img src="/assets/images/LOGO_Main.jpg" 
+  <img src="/assets/images/7C_Oval_logo.jpg" 
        alt="Seven Concepts Media Logo" width="150">
 </p>
 
