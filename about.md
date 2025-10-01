@@ -4,7 +4,9 @@ title: "About"
 permalink: /about/
 ---
 
+<p align="center">
 <h1>About Seven Concepts Media</h1>
+</p>
 <p>Seven Concepts Media is a growing portal and publishing service focused on authors and creators who provide engaging media (printed or digital).
 Non-fiction that reflects diverse interests, unique insights, practical perspectives, and/or real-world connections to inspire critical thinking.
 Fiction that has passion, intrigue, and escape, that transports the reader into various fantasy realms and possibilities.</p>
