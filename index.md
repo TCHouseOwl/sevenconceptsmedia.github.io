@@ -6,7 +6,7 @@ title: "Home"
 # SCM Print‑on‑Demand Books.
 
 
-## Advanced Competitive Advantage: MBA Edition (2025)
+## Advanced Competitive Advantage: The MBA Edition (2025)
 
 <p align="center">
   <img src="/assets/images/ACA_MBA_Cover.jpg" alt="Beyond Strategic Leadership cover" width="200">
