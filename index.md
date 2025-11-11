@@ -5,6 +5,19 @@ title: "Home"
 
 # SCM Print‑on‑Demand Books.
 
+
+## Advanced Competitive Advantage: MBA Edition (2025)
+
+<p align="center">
+  <img src="/assets/images/ACA_MBA_Cover.jpg" alt="Beyond Strategic Leadership cover" width="200">
+</p>
+
+Do you know how leaders move beyond memorizing frameworks and start applying them with precision? This book corrects common mistakes and misunderstandings of strategy. Moreover, it introduces the Competitive Alignment Model, providing clarity to build a genuine strategic advantage. If you’re ready to be the leader who doesn’t just understand strategy but turns it into impact, this is your playbook.
+
+[Pending](https://…)
+
+---
+
 ## Beyond Strategic Leadership (2025)  
 Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Execution.
 
@@ -15,13 +28,6 @@ Subtitle: Unlock the Creative Edge to Gain Advantages through Innovation and Exe
 To achieve long-term organizational success, leaders must anticipate change, drive innovation, and navigate complexity in an era where digital transformation is reshaping industries. This book delivers practical solutions and actionable strategies to help you foster an innovative and agile mindset. Applicable to strategic management, innovation, and leadership.
 
 [Buy on Amazon](https://www.amazon.com/Beyond-Strategic-Leadership-Advantages-Innovation/dp/B0F48HYRR1/ref=sr_1_1?crid=3U4KB7MN2614Q&dib=eyJ2IjoiMSJ9.EpV-RCUAdnSUBbREaj1ayQ.lUgQNm-9a8VbSrKVqSLVdVQILC--qlUYKl-24aGfFLY&dib_tag=se&keywords=beyond+strategic+leadership+by+klamont+johnson&qid=1745294857&sprefix=beyond+strategic+leadershi%2Caps%2C98&sr=8-1)
-
----
-
-## Competitive Advantage (Coming in 2025)
-An Essential Guide
-
-[Pending](https://…)
 
 ---
 
