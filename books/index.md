@@ -11,7 +11,7 @@ permalink: /books/
 
 # Seven Concepts Media Titles
 
-> We provide rare and practical print-on-demand books and media from authors who seek not fame but to share transformative ideas through books, audio, and digital experiences. 
+> SCM provides rare and practical print-on-demand books and media from authors who seek not fame but to share transformative ideas through books, audio, and digital experiences. 
 
 ## Available Titles
 
