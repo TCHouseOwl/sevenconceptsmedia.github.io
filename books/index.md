@@ -9,9 +9,9 @@ permalink: /books/
        alt="Seven Concepts Media Logo" width="150">
 </p>
 
-# Seven Concepts Media: Available and Pending Titles
+# Seven Concepts Media Titles
 
-> We provide rare and practical print-on-demand books and media.
+> We provide rare and practical print-on-demand books and media from authors who seek not fame but to share transformative ideas through books, audio, and digital experiences. 
 
 ## Available Titles
 
