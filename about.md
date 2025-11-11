@@ -19,7 +19,7 @@ Fiction that has passion, intrigue, and escape, that transports the reader into 
 <!-- Footer with affiliate disclosure -->
 <footer class="site-footer">
 <p class="affiliate-disclosure">
-As an Amazon associate we earn from qualifying purchases and monitor reviews to identify and 
-provide more titles that appeal to you. More importantly, our available titles are always ready. 
+As an Amazon associate, we earn from qualifying purchases and monitor reviews to identify and 
+provide more media that appeals to you. More importantly, our available media are always ready. 
 </p>
 </footer>
