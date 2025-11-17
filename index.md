@@ -12,7 +12,7 @@ title: "Home"
   <img src="/assets/images/ACA_MBA_Cover.jpg" alt="Beyond Strategic Leadership cover" width="200">
 </p>
 
-Do you know how leaders move beyond memorizing frameworks? This book corrects common mistakes and misunderstandings of advantages. Moreover, it introduces the Competitive Alignment Model, providing clarity to build a genuine strategic advantage. If you’re ready to be the leader who doesn’t just understand strategy but turns it into impact, this is your playbook.
+Do you know how leaders move beyond memorizing frameworks? This book corrects common mistakes and misunderstandings of advantages. Moreover, it introduces the Competitive Alignment Model, providing clarity to build a genuine strategic advantage. If you’re ready to be the leader who doesn’t just understand strategy but turns it into impact, this is your book.
 
 [Buy on Amazon](https://www.amazon.com/Advanced-Competitive-Advantage-KRISTIAN-JAMESON/dp/B0G1YJW62X/ref=sr_1_1?crid=2XFA1H803XDJ0&dib=eyJ2IjoiMSJ9.1iFaaFEakIlLzyaYTbVrzctzKBq4m1ik_ykVg6lNZW2gEcWaiFuNz_WfImhUYMvk.CDyXpCg_oC6RsLwCdVdHszbVP1FoKDQBKC21xI_R3Ro&dib_tag=se&keywords=advanced+competitive+advantage+jameson&qid=1763408136&sprefix=advanced+competitive+advantage+jameson%2Caps%2C136&sr=8-1)
 
